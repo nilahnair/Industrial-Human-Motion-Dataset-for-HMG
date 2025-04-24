@@ -42,13 +42,23 @@ AMASS Annotations:
 4. NTU RGB+D 120 Dataset [Website](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
 
 ## Annotation Tools
++ KIT Annotation Tool [Website](https://motion-annotation.humanoids.kit.edu/)
++ Babel Frame and Sequence Labelling Tools [Website](https://babel.is.tue.mpg.de/demos.html)
 
 ## Simulation Environments and Visualisation Tools
++ Unity Hub
++ Blender
++ Isaac Sim
++ Aitviewer [GitHUb](https://github.com/eth-ait/aitviewer)
++ Python SMPLX [GitHub](https://github.com/vchoutas/smplx)
+
+## Data Creation Tools
++ RGB to MoCap Generation: EasyMoCap [GitHUb](https://github.com/zju3dv/EasyMocap)
++ MoCap to SMPL Convertion: Mosh++ [GitHub](https://github.com/nghorbani/moshpp)
 
 ## Motion Generation Models
 
 ## Conferences and workshops
-
 * NeurIPS
 * CVPR
 * ICCV
