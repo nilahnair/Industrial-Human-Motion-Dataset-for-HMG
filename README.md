@@ -16,9 +16,13 @@ Our work, **Recommendation on Human Motion Generation Datasets for Industrial Si
 The following surveys were found to be good for obtaining a good overview:
 
 For **Human Motion Generation** see: Human Motion Generation: A Survey [Paper](https://arxiv.org/pdf/2307.10894)
+
 For **Human Motion Synthesis** see: A Survey on Deep Learning for Skeleton-Based Human Animation [Paper](https://arxiv.org/pdf/2110.06901)
+
 For **Human Motion Analysis Review** see: Online human motion analysis in industrial context: A review [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624000083) 
+
 For an example on **Annotation Framework on video data** see: Motion-X: A Large-scale 3D expressive Whole-body Human Motion Dataset [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4f8e27f6036c1d8b4a66b5b3a947dd7b-Paper-Datasets_and_Benchmarks.pdf)
+
 
 ## Human Motion Generation Datasets
 
