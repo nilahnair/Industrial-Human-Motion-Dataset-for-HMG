@@ -78,6 +78,6 @@ AMASS Annotations:
 
 ## Code
 
-Code snippets are provided within the folder 'code'. If you would like to discuss or require code snippets for other works, please raise an issue.
+Code snippets are provided within the folder 'code'. Please start a discussion if you would like to discuss or require code snippets for other works.
 
 
