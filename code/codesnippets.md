@@ -1,9 +1,9 @@
 ## 3D Skeletal Data
-Discusses various sensors, bone structures, benchmark datasets, representations and performance analysis [Paper](https://www.sciencedirect.com/science/article/pii/S1077314217300279)
-To understand which rotation representation is ideal for neural networks [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf)
+- Discusses various sensors, bone structures, benchmark datasets, representations and performance analysis [Paper](https://www.sciencedirect.com/science/article/pii/S1077314217300279)
+- To understand which rotation representation is ideal for neural networks [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf)
 
 ## SMPL Intro
-For SMPL model license, body license, introduction, and packages refer to [Website](https://smpl.is.tue.mpg.de/)
+For SMPL model license, body license, introduction, and packages, refer to [Website](https://smpl.is.tue.mpg.de/)
 
 ## MoCap C3D to SMPL
 - [Mocap-to-SMPLX by LvXinTao](https://github.com/LvXinTao/Mocap-to-SMPLX)
