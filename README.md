@@ -49,7 +49,7 @@ AMASS Annotations:
 + Unity Hub
 + Blender
 + Isaac Sim
-+ Aitviewer [GitHUb](https://github.com/eth-ait/aitviewer)
++ Aitviewer [GitHub](https://github.com/eth-ait/aitviewer)
 + Python SMPLX [GitHub](https://github.com/vchoutas/smplx)
 
 ## Data Creation Tools
@@ -58,7 +58,7 @@ AMASS Annotations:
 
 ## Motion Generation Models
 
-## Conferences and workshops
+## Recommended Conferences and workshops
 * NeurIPS
 * CVPR
 * ICCV
@@ -69,7 +69,15 @@ AMASS Annotations:
 * HuMoGen (CVPR workshop)
 
 ## Metrics
+- FID
+- Diversity
+- R-Precision
+- MultiModal Distance
+- [Arxiv Paper](https://arxiv.org/pdf/2405.07680)
+- [Arxiv Paper](https://arxiv.org/pdf/2309.10248)
 
 ## Code
+
+Code snippets are provided within the folder 'code'. If you would like to discuss or require code snippets for other works, please raise an issue.
 
 
